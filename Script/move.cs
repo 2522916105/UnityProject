@@ -14,7 +14,6 @@ public class move : MonoBehaviour
         Transform trans=obj.transform;
         Vector3 position = trans.position;
         Debug.Log("****物体位置****"+position);
-        Debug.Log("123");
     }
 
     // Update is called once per frame
